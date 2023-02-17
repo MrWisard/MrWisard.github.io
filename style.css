@@ -1,0 +1,18 @@
+#button1{
+    margin-left: 50%;
+    transform: translate(-50%, -50%);
+}
+#title{
+    text-align:center;
+    margin-left: 50%;
+    transform: translate(-50%, -50%);
+}
+.text{
+    background-color: green;
+    width: 100px;
+    text-align:center;
+    background-color: green;
+    text-align: center;
+  margin-left: 50%;
+  transform: translate(-50%, -50%);
+}
